@@ -28,7 +28,7 @@ int _putchar(char c)
 }
 
 /**
- * _puts - prints a string to stdout
+ * _puts - print a string to stdout
  * @str: pointer to the string to print
  * Return: number of chars written
  */
