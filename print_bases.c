@@ -45,7 +45,7 @@ int print_hex_big(va_list l, flags_t *f)
 }
 
 /**
- * print_binary - prints a number in base 2
+ * print_binary - print a number in base 2
  * @l: va_list arguments from _printf
  * @f: pointer to the struct that determines
  * if a flag is passed to _printf
